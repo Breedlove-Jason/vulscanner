@@ -1,14 +1,14 @@
 # <center> Ethical Hacking Tools
 
 ## <center> Included Tools:
-* port scanner
+
 * vulnerability scanner
 ## About:
 
 
 
 ## Bugs:
-
+fixed bug in vulbanners.txt
 
 
 ## Changes:
@@ -20,3 +20,4 @@
 
 
 ## Notes: 
+vulnerabilities must be added manually to vulbanners.txt
